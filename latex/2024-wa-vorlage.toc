@@ -1,15 +1,22 @@
-\babel@toc {ngerman}{}\relax 
+\babel@toc {nil}{}\relax 
 \contentsline {section}{\numberline {1}Einleitung}{1}{}%
-\contentsline {subsection}{\numberline {1.1}Grundlagen und Begriffe}{1}{}%
-\contentsline {subsection}{\numberline {1.2}Definitionen}{1}{}%
-\contentsline {section}{\numberline {2}Analyse und Bewertung}{2}{}%
-\contentsline {subsection}{\numberline {2.1}Die Verwandlung}{2}{}%
-\contentsline {section}{\numberline {3}Ergebnisse und Diskussion}{2}{}%
-\contentsline {section}{\numberline {4}Fazit und Schlussfolgerungen}{3}{}%
-\contentsline {subsection}{\numberline {4.1}Offene Fragen}{3}{}%
-\contentsline {subsection}{\numberline {4.2}Diskussion}{3}{}%
-\contentsline {section}{Literaturverzeichnis}{5}{}%
-\contentsline {section}{Anhang}{5}{}%
-\contentsline {section}{\numberline {A}Datenmaterial}{5}{}%
-\contentsline {section}{\numberline {B}Web-Standards}{5}{}%
+\contentsline {subsection}{\numberline {1.1}Einführung in Delay Tolerant Networking (DTN)}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Motivation und Relevanz}{1}{}%
+\contentsline {subsection}{\numberline {1.3}Zielsetzung der Arbeit}{1}{}%
+\contentsline {section}{\numberline {2}Grundlagen des Delay Tolerant Networking}{1}{}%
+\contentsline {subsection}{\numberline {2.1}Netzwerkprinzipien und Herausforderungen}{1}{}%
+\contentsline {subsection}{\numberline {2.2}Funktionsweise und Aufbau von DTN}{1}{}%
+\contentsline {section}{\numberline {3}Abgrenzung und Einordnung}{1}{}%
+\contentsline {subsection}{\numberline {3.1}DTN im Vergleich zu herkömmlichen Netzwerken}{1}{}%
+\contentsline {subsection}{\numberline {3.2}Anwendungsgebiete und Einsatzszenarien}{1}{}%
+\contentsline {section}{\numberline {4}Bewertung und Diskussion}{1}{}%
+\contentsline {subsection}{\numberline {4.1}Vorteile und Schwächen von DTN}{1}{}%
+\contentsline {subsection}{\numberline {4.2}Eignung für verschiedene Einsatzszenarien}{1}{}%
+\contentsline {section}{\numberline {5}Fazit und Ausblick}{1}{}%
+\contentsline {subsection}{\numberline {5.1}Zusammenfassung der Ergebnisse}{1}{}%
+\contentsline {subsection}{\numberline {5.2}offene Fragen und zukünftige Entwicklungen}{1}{}%
+\contentsline {section}{Literaturverzeichnis}{2}{}%
+\contentsline {section}{Anhang}{3}{}%
+\contentsline {section}{\numberline {A}Datenmaterial}{3}{}%
+\contentsline {section}{\numberline {B}Web-Standards}{3}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
