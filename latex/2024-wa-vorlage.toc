@@ -9,7 +9,7 @@
 \contentsline {subsection}{\numberline {4.1}Offene Fragen}{3}{}%
 \contentsline {subsection}{\numberline {4.2}Diskussion}{3}{}%
 \contentsline {section}{Literaturverzeichnis}{5}{}%
-\contentsline {section}{Anhang}{6}{}%
-\contentsline {section}{\numberline {A}Datenmaterial}{6}{}%
-\contentsline {section}{\numberline {B}Web-Standards}{6}{}%
+\contentsline {section}{Anhang}{5}{}%
+\contentsline {section}{\numberline {A}Datenmaterial}{5}{}%
+\contentsline {section}{\numberline {B}Web-Standards}{5}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
