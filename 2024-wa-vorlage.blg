@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: 2024-wa-vorlage.aux
+A level-1 auxiliary file: titleseite.aux
+The style file: alpha.bst
+Database file #1: literatur.bib
+Warning--entry type for "NASA25" isn't style-file defined
+--line 58 of file literatur.bib
+Warning--empty institution in DRT+24
+You've used 8 entries,
+            2543 wiz_defined-function locations,
+            610 strings with 5851 characters,
+and the built_in function-call counts, 3060 in all, are:
+= -- 285
+> -- 203
+< -- 5
++ -- 73
+- -- 72
+* -- 228
+:= -- 559
+add.period$ -- 26
+call.type$ -- 8
+change.case$ -- 62
+chr.to.int$ -- 8
+cite$ -- 9
+duplicate$ -- 105
+empty$ -- 181
+format.name$ -- 81
+if$ -- 587
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 4
+newline$ -- 44
+num.names$ -- 24
+pop$ -- 61
+preamble$ -- 1
+purify$ -- 69
+quote$ -- 0
+skip$ -- 81
+stack$ -- 0
+substring$ -- 69
+swap$ -- 7
+text.length$ -- 5
+text.prefix$ -- 3
+top$ -- 0
+type$ -- 60
+warning$ -- 1
+while$ -- 22
+width$ -- 11
+write$ -- 105
+(There were 2 warnings)

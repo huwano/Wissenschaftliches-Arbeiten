@@ -1,0 +1,44 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{DRT{\etalchar{+}}24}
+
+\bibitem[CBH{\etalchar{+}}07]{CBH+07}
+Vinton Cerf, Scott Burleigh, Adrian Hooke, Leigh Torgerson, Robert Durst, Keith Scott, Kevin Fall, and Howard Weiss.
+\newblock Delay-tolerant networking architecture.
+\newblock RFC 4838, Internet Engineering Task Force, April 2007.
+
+\bibitem[DRT{\etalchar{+}}24]{DRT+24}
+Rachel Dudukovich, Daniel Raible, Brian Tomko, Nadia Kortas, Ethan Schweinsberg, Thomas Basciano, William Pohlchuck, Joshua Deaton, John Nowakowski, and Alan Hylton.
+\newblock Advances in high-rate delay tolerant networking on-board the international space station.
+\newblock Technical report, 2024.
+
+\bibitem[Fal03]{Fall03}
+Kevin Fall.
+\newblock A delay-tolerant network architecture for challenged internets.
+\newblock In {\em Proceedings of the 2003 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications (SIGCOMM '03)}. ACM, 2003.
+
+\bibitem[GYLZ15]{GYL+15}
+Longxiang Gao, Shui Yu, Tom~H. Luan, and Wanlei Zhou.
+\newblock {\em Delay Tolerant Networks}.
+\newblock SpringerBriefs in Computer Science. Springer, 2015.
+
+\bibitem[NAS25]{NASA25}
+NASA.
+\newblock Delay/disruption tolerant networking (dtn) overview, 2025.
+\newblock Zugriff am 29.08.2025.
+
+\bibitem[SB07]{ScBu07}
+Keith Scott and Scott Burleigh.
+\newblock Bundle protocol specification.
+\newblock RFC 5050, Internet Engineering Task Force, November 2007.
+
+\bibitem[War15]{Wart15}
+Forrest Warthman.
+\newblock Delay- and disruption-tolerant networks (dtns): A tutorial.
+\newblock Technical report, Warthman Associates, September 2015.
+
+\bibitem[WW25]{WaWa25}
+Ding Wang and Ruhai Wang.
+\newblock Transmission control protocol (tcp)-based delay tolerant networking for space-vehicle communications in cislunar domain: An experimental approach.
+\newblock {\em Sensors}, 25(4):1136, 2025.
+
+\end{thebibliography}
